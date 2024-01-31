@@ -5,7 +5,9 @@ Text Editor
 This system loads a dictionary from the "outfile.txt" file and provides suggestions based on the user input. It is implemented through two classes, which signifies the node in the trie and the other manages the Trie operations.
 
 ![image](https://github.com/EmpressHoor/Data-Structure-Project/assets/99631687/b41df687-991b-467a-8f62-c40a9c792ef5)
+
 ![image](https://github.com/EmpressHoor/Data-Structure-Project/assets/99631687/d451ea69-a314-4ac9-9a43-8653bf6b33b9)
+
 ![image](https://github.com/EmpressHoor/Data-Structure-Project/assets/99631687/bd5c5603-4780-45db-9954-e39bc0edc14e)
 
 # Working
