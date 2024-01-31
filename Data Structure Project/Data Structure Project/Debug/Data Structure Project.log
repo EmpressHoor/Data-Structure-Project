@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\Dell\source\repos\Data Structure Project\Data Structure Project\Source.cpp(116,33): warning C4099: 'TrieNode': type name first seen using 'class' now seen using 'struct'
+C:\Users\Dell\source\repos\Data Structure Project\Data Structure Project\Source.cpp(6): message : see declaration of 'TrieNode'
+C:\Users\Dell\source\repos\Data Structure Project\Data Structure Project\Source.cpp(33,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\Data Structure Project\Data Structure Project\Source.cpp(54,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dell\source\repos\Data Structure Project\Data Structure Project\Source.cpp(71,27): warning C4018: '<': signed/unsigned mismatch
+  Data Structure Project.vcxproj -> C:\Users\Dell\source\repos\Data Structure Project\Debug\Data Structure Project.exe
