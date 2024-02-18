@@ -1,5 +1,5 @@
 # Data-Structure-Project
-Text Editor
+This Text Editor is my Final Project of Data Structure.
 
 # Overview
 This system loads a dictionary from the "outfile.txt" file and provides suggestions based on the user input. It is implemented through two classes, which signifies the node in the trie and the other manages the Trie operations.
